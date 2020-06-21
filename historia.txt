@@ -2,6 +2,8 @@ Esta es la historia de Freddy Vega
 
 Freddy Vega tiene 32 años y nació en Colombia
 
+AngeloTest es una robot que contribuye a este proyecto Open Source.
+
 Mensaje para testear cambios de un colaborador
 
 Mañana nos enfocaremos en su vida laboral
